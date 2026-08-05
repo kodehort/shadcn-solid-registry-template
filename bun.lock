@@ -6,7 +6,7 @@
       "name": "shadcn-solid-registry-template",
       "dependencies": {
         "@solidjs/meta": "^0.29.4",
-        "@solidjs/router": "^0.15.3",
+        "@solidjs/router": "^0.16.0",
         "@solidjs/start": "^1.1.0",
         "class-variance-authority": "^0.7.1",
         "clsx": "^2.1.1",
@@ -312,7 +312,7 @@
 
     "@solidjs/meta": ["@solidjs/meta@0.29.4", "", { "peerDependencies": { "solid-js": "1.9.10" } }, "sha512-zdIWBGpR9zGx1p1bzIPqF5Gs+Ks/BH8R6fWhmUa/dcK1L2rUC8BAcZJzNRYBQv74kScf1TSOs0EY//Vd/I0V8g=="],
 
-    "@solidjs/router": ["@solidjs/router@0.15.4", "", { "peerDependencies": { "solid-js": "1.9.10" } }, "sha512-WOpgg9a9T638cR+5FGbFi/IV4l2FpmBs1GpIMSPa0Ce9vyJN7Wts+X2PqMf9IYn0zUj2MlSJtm1gp7/HI/n5TQ=="],
+    "@solidjs/router": ["@solidjs/router@0.16.3", "", { "peerDependencies": { "solid-js": "^1.8.6" } }, "sha512-WWQkmSmSpl+15HgUktGPbeXkgWmonj4XwPOcZVHJz1EQV3dz5qWHIyQ/BKXFevor6u/0dKvC9FlUmKmDwE1QHw=="],
 
     "@solidjs/start": ["@solidjs/start@1.2.0", "", { "dependencies": { "@tanstack/server-functions-plugin": "1.121.21", "@vinxi/plugin-directives": "0.5.1", "@vinxi/server-components": "0.5.1", "cookie-es": "2.0.0", "defu": "6.1.4", "error-stack-parser": "2.1.4", "html-to-image": "1.11.13", "radix3": "1.1.2", "seroval": "1.4.0", "seroval-plugins": "1.4.0", "shiki": "1.29.2", "source-map-js": "1.2.1", "terracotta": "1.0.6", "tinyglobby": "0.2.15", "vite-plugin-solid": "2.11.10" }, "peerDependencies": { "vinxi": "0.5.10" } }, "sha512-SRv1g3R+4sxZnxCBPK1IedtLKsPhPJ7W/Yv4xEHjM4jJGPWi3ed35/yd0D5zhRK0C7zJIkZKbhnR/S3g8JUD5w=="],
 
